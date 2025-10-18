@@ -27,3 +27,9 @@ print(x)
 point=(44,72)
 x = point[0]
 print(x)
+
+import math
+
+print(math.sqrt(16))
+
+print(dir(math))
