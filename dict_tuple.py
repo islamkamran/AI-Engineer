@@ -10,3 +10,6 @@ for key in d:
 print("---------- Print by Tuple ---------")
 for k,v in d.items():
     print(f'key: {k}, Value:{v}')
+
+# checking the python condition without checking thr if condition
+print("islam" in d)
